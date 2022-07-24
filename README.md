@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Raezo
+- 👋 Hi, I’m @Morez
+
 - 👀 I’m interested in coding to fucking survive
 - 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on wut?
