@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Morez
+- 👋 Hi, I’m @sys0rpheus
 
 - 👀 I’m interested in tech, poetry, mythology and art.
 - 🌱 I’m currently learning JS
