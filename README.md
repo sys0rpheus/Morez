@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Morez
 
-- 👀 I’m interested in coding to fucking survive
-- 🌱 I’m currently learning html/css
+- 👀 I’m interested in tech, poetry, mythology and art.
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on wut?
-- 📫 email me at Reza799azadi@gmail.com 
+- 📫 email me at reza799azadi@gmail.com 
 
 :heart
 
